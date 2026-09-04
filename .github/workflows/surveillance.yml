@@ -2,7 +2,7 @@ name: Surveillance CROUS Lille
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "*/05 * * * *"
   workflow_dispatch: {}
 
 permissions:

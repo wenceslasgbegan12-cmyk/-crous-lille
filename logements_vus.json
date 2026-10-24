@@ -8,6 +8,6 @@
     978,
     2434
   ],
-  "erreurs_4xx": 2,
-  "alerte_4xx_envoyee": false
+  "erreurs_4xx": 3,
+  "alerte_4xx_envoyee": true
 }
